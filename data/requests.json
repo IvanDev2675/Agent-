@@ -1,0 +1,7 @@
+[
+  {"id": "REQ-1001", "title": "Acceso a módulo de reportes financieros", "requester": "Laura Gómez", "status": "En análisis", "priority": "Media", "created": "2026-10-28", "assignee": "Equipo Plataforma"},
+  {"id": "REQ-1002", "title": "Error al exportar solicitudes a Excel", "requester": "Carlos Pérez", "status": "En desarrollo", "priority": "Alta", "created": "2026-11-02", "assignee": "Equipo Aplicaciones"},
+  {"id": "REQ-1003", "title": "Integración del portal con el directorio corporativo", "requester": "Marta Ruiz", "status": "Pendiente de aprobación", "priority": "Media", "created": "2026-11-05", "assignee": "Comité de cambios"},
+  {"id": "REQ-1004", "title": "Caída del servicio de notificaciones", "requester": "Andrés Torres", "status": "Cerrada", "priority": "Crítica", "created": "2026-11-09", "assignee": "Equipo Infraestructura"},
+  {"id": "REQ-1005", "title": "Nuevo campo de centro de costos en formulario", "requester": "Sofía Díaz", "status": "Registrada", "priority": "Baja", "created": "2026-11-15", "assignee": "Sin asignar"}
+]

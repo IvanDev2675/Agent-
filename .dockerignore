@@ -1,0 +1,11 @@
+.env
+.venv
+.git
+__pycache__
+.pytest_cache
+tests
+eval
+docs
+deploy
+data/history.db
+data/local_store.json
